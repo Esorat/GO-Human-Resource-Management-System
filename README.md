@@ -4,7 +4,7 @@ Your go-to solution for managing employee data with ease!
 
 Features:
 
-✨ Super-Fast Web Framework: We use Fiber, a lightning-fast web framework, to ensure your HR Management System is quick and responsive.
+✨ Super-Fast Web Framework: Go Fiber, a lightning-fast web framework, to ensure your HR Management System is quick and responsive.
 
 ✨ MongoDB Magic: Seamlessly store and retrieve employee data using the power of MongoDB. Lightning-fast queries and updates at your fingertips!
 
